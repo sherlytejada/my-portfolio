@@ -1,0 +1,66 @@
+
+body	{
+	background-image: url(../images/bg3.jpeg);
+	background-repeat: no-repeat;	
+	background-size: cover;
+	color: #fff;
+
+	font-family: 'Zilla Slab', serif;
+
+	}
+
+h1 {
+	font-size: 50px;
+	margin-bottom: 0;
+	font-stretch: 15;
+	text-transform: uppercase;
+	letter-spacing: 15px;
+	padding-left: 50%;
+	font-family: 'Special Elite', cursive;
+	margin-top: 400px;
+}
+
+h2 {
+	margin-top: 50px;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	color: pink;
+	background-color: rgba(51,51,51,0.5);
+
+
+
+}
+
+#me {
+	height: 200px;
+	border-radius: 50%;
+	border-style: solid;
+	border-width: 5px;
+	border-color: white;
+	position: absolute;
+	left: 0;
+	top: -100px;
+
+
+
+}
+
+.about{
+	width: 100%;
+	font-size: 18px;
+	letter-spacing: .10;
+	line-height: 1.5;
+	background-color: rgba(51,51,51,0.8);
+
+	font-family: 'Forum', cursive;
+
+}
+
+.container {
+	width: 500px;
+	margin: 0 auto;
+	text-align: center;
+	position: relative;
+	
+
+}
